@@ -7,6 +7,7 @@
 
 This project is a web application that allows users to log in, generate images based on text prompts, and interact with the generated images through likes, comments, and deletion. It also includes functionality for storing user data and images in local storage, handling errors, and logging user activities for image generation requests.
 
+(ps, you can also generate this with Modal serverless GPU, just setup your Modal account and deploy the function "generate_image" and you can run your AI Model faster!)
 ## Getting Started
 
 First, clone the GitHub repository:

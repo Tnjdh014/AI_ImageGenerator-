@@ -35,7 +35,7 @@ export async function POST(request: Request) {
     const response = await fetch(huggingFaceAPIUrl, {
       method: "POST",
       headers: {
-        Authorization: "Bearer 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", // Replace with your Hugging Face API key
+        Authorization: "Bearer <HUGGINGFACE_API>", // Replace with your Hugging Face API key
         "Content-Type": "application/json",
       },
       body: JSON.stringify({ inputs: text }),

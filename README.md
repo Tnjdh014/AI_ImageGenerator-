@@ -27,6 +27,7 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+(Ps, you can do this via MODAL serverless GPU, but due to long time constrains its not fully implemented. Please see generate_image.py for more details.)
 
 ## Tasks
 

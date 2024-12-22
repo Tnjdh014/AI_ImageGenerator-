@@ -3,6 +3,10 @@
 
 # Pentagram: Instagram, but with AI Images
 
+## About 
+
+This project is a web application that allows users to log in, generate images based on text prompts, and interact with the generated images through likes, comments, and deletion. It also includes functionality for storing user data and images in local storage, handling errors, and logging user activities for image generation requests.
+
 ## Getting Started
 
 First, clone the GitHub repository:
@@ -115,8 +119,6 @@ For AI image generation and other advanced features, check out these resources:
 - [Stable Diffusion](https://stablediffusionweb.com/) - an alternative image generation model.
 
 ---
-
-This version of the README highlights the unique features of the app and omits the TODO section, making it more attractive and informative for potential users and contributors.
 
 
 ## Learn More

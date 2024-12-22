@@ -52,6 +52,25 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 - **Advanced Image Controls**: Users can fine-tune the image generation process by adjusting parameters like image size, style, and complexity (if the API supports such features). This gives more control over the generated content.
 
+## Usage
+
+- **Login**: Click "Login" to enter your username.
+- **Generate Image**: Type a description in the input field and click "Generate" to create an image.
+- **Like**: Click the thumbs up to like an image.
+- **Comment**: Add a comment below each image.
+- **Remove Image**: Click the trash icon to remove an image.
+- **Remove All Images**: Click "Remove All Images" at the bottom to clear all images.
+- **Prompt History**: View previously used prompts. Remove them individually or clear the entire history.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+Let me know if you need any changes or additions!
+
+
 ## Configuration
 
 If you wish to modify the AI image generation API, check out the `src/app/api/generate-image/route.ts` file. Make sure the API is properly set up and integrated with your image generation service.
